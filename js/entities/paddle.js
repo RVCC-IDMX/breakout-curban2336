@@ -71,7 +71,7 @@ export class Paddle {
     // - Set the paddle's x position, centering it on the input x
     // - Make sure the paddle stays within the game boundaries
     this.x = x;
-    if (this.x * 2 > this.totalWidth) {
+    if (this.x > this.totalWidth) {
       this.x = this.totalWidth - this.x;
     }
   }
