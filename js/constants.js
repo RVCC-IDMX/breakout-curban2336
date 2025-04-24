@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 // constants.js - Game constants and configuration
 
 // Game states

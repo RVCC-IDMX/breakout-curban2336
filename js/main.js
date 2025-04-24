@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 // main.js - Entry point for the Breakout game
 
 import { Game } from './game.js';
